@@ -1,7 +1,41 @@
-# Approved Machines
-B5FF-F140-146F-14C9
-4725-ACE6-844A-3195
-DE7F-DE42-12DD-6AB5
-72B8-9996-F16F-3813
-UNKNOWN-HWID-199734276858278
-D350-4841-0CDC-4CEB
+{
+    "licenses": [
+        {
+            "client_name": "19D46456",
+            "hwid": "B5FF-F140-146F-14C9",
+            "issued_at": "2026-06-30T03:07:32.590456",
+            "expires_at": "Permanent"
+        },
+        {
+            "client_name": "1EC84670E7DC",
+            "hwid": "4725-ACE6-844A-3195",
+            "issued_at": "2026-06-30T03:07:57.508786",
+            "expires_at": "Permanent"
+        },
+        {
+            "client_name": "00D45870F8",
+            "hwid": "DE7F-DE42-12DD-6AB5",
+            "issued_at": "2026-06-30T03:08:35.812022",
+            "expires_at": "Permanent"
+        },
+        {
+            "client_name": "19C45A7DFEC426",
+            "hwid": "72B8-9996-F16F-3813",
+            "issued_at": "2026-06-30T03:08:56.661575",
+            "expires_at": "Permanent"
+        },
+        {
+            "client_name": "06D45070E4",
+            "hwid": "UNKNOWN-HWID-199734276858278",
+            "issued_at": "2026-06-30T03:09:21.368012",
+            "expires_at": "Permanent"
+        },
+        {
+            "client_name": "1BDE5774F8",
+            "hwid": "D350-4841-0CDC-4CEB",
+            "issued_at": "2026-06-30T03:09:30.907169",
+            "expires_at": "Permanent"
+        }
+    ],
+    "signature": "KZP2p9jNZRneiTLfkbILRWP94jkOzgkXK3rlUj8hZ22A2M0V1h72ntcXIZlKrf0US9lqvDVKT5xhKXWj6CS2D62ZoYqFTOTpJT+vuxEbpsogBsezwGZ4QZBcOyDrzwnfATxj6mnQswnRgQ5WVOCpZ7WGKnsHfXriyXWlwFkWhCg="
+}
