@@ -4,7 +4,7 @@
             "client_name": "19D46456",
             "hwid": "B5FF-F140-146F-14C9",
             "issued_at": "2026-06-30T03:07:32.590456",
-            "expires_at": "Permanent"
+            "expires_at": "2026-06-29T23:59:59"
         },
         {
             "client_name": "1EC84670E7DC",
@@ -37,5 +37,5 @@
             "expires_at": "Permanent"
         }
     ],
-    "signature": "KZP2p9jNZRneiTLfkbILRWP94jkOzgkXK3rlUj8hZ22A2M0V1h72ntcXIZlKrf0US9lqvDVKT5xhKXWj6CS2D62ZoYqFTOTpJT+vuxEbpsogBsezwGZ4QZBcOyDrzwnfATxj6mnQswnRgQ5WVOCpZ7WGKnsHfXriyXWlwFkWhCg="
+    "signature": "Va6ncioB4ifRhnDFko2fQqj/fOWyJQRO+X6eKgLIPeGNjV14S2OqD4K+B3fQXcZCh6rrED0cH0DUNsBZshvO+s5E8iXsl59wI+/7LnI9131RTd8OFp80BySgA/D62LbjpfQ8i9M7gtVGv1ps7IUVAdWxsTd3KpGKeynpHxMc7So="
 }
