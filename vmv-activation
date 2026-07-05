@@ -35,7 +35,13 @@
             "hwid": "UNKNOWN-HWID-97640872586605",
             "issued_at": "2026-07-02T08:01:16.460720",
             "expires_at": "Permanent"
+        },
+        {
+            "client_name": "1EC84670E7DC",
+            "hwid": "4725-ACE6-844A-3195",
+            "issued_at": "2026-07-05T07:26:13.714566",
+            "expires_at": "Permanent"
         }
     ],
-    "signature": "YT4AiOWSKYB2RCVKhljKWCdZk8zcp7ubMYSRFT67JwMzzBiLsOGA7HpQLSmjD9HUfXJhRiDklxvAPYR+wqCWhGQst6BbDFOsjDu4aqDcNOO0No/hDpIlzF1nox3XEkM360JfRRgOO73IH28nGcY0BxMPO29q9JIZ0XOYcywSQXw="
+    "signature": "RbP3ynaHX2ywlwO+15663WEE1YD4PYc6FcNC8eDt8MUvBsLXa/1T+M8eKDTjF0PxmiXf54kH7ppkP+jYerDBu/JDgoovvyCeW3BMOXOrd0z8+kniYfAMj+IbB0yRWcgI+VZyq2K13z5QwqmGoTMJR1/NGLPcttweq8+O3AYHcAI="
 }
