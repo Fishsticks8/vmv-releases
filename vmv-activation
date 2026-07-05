@@ -7,12 +7,6 @@
             "expires_at": "Permanent"
         },
         {
-            "client_name": "1EC84670E7DC",
-            "hwid": "4725-ACE6-844A-3195",
-            "issued_at": "2026-06-30T03:07:57.508786",
-            "expires_at": "Permanent"
-        },
-        {
             "client_name": "00D45870F8",
             "hwid": "DE7F-DE42-12DD-6AB5",
             "issued_at": "2026-06-30T03:08:35.812022",
@@ -43,5 +37,5 @@
             "expires_at": "Permanent"
         }
     ],
-    "signature": "V3t7TEatV+z7+y7CtymJI+NWEjERL/I4WlNydRfQTrIrBQMKtLiE43buqiASthKQXPLS5Isw44NR6g2UCW30z5+PDoAGn0prNjd38EdNm/x+9QUrT9AuQ3bRqoVlPHNH0wHPCov9iL8KoLG88EVr9RAh82Y7qCfNfl5QMF4nsQ0="
+    "signature": "YT4AiOWSKYB2RCVKhljKWCdZk8zcp7ubMYSRFT67JwMzzBiLsOGA7HpQLSmjD9HUfXJhRiDklxvAPYR+wqCWhGQst6BbDFOsjDu4aqDcNOO0No/hDpIlzF1nox3XEkM360JfRRgOO73IH28nGcY0BxMPO29q9JIZ0XOYcywSQXw="
 }
