@@ -8,7 +8,7 @@
         },
         {
             "client_name": "00D45870F8",
-            "hwid": "DE7F-DE42-12DD-6AB5",
+            "hwid": "UNKNOWN-HWID-123818829105936",
             "issued_at": "2026-06-30T03:08:35.812022",
             "expires_at": "Permanent"
         },
@@ -43,5 +43,5 @@
             "expires_at": "Permanent"
         }
     ],
-    "signature": "RbP3ynaHX2ywlwO+15663WEE1YD4PYc6FcNC8eDt8MUvBsLXa/1T+M8eKDTjF0PxmiXf54kH7ppkP+jYerDBu/JDgoovvyCeW3BMOXOrd0z8+kniYfAMj+IbB0yRWcgI+VZyq2K13z5QwqmGoTMJR1/NGLPcttweq8+O3AYHcAI="
+    "signature": "IkCRB/fmpL7XCehfx7OzLHtnZhUP6ftK7GyAKNXMhdekZe19o1YRSaBVXR3QOF78R2mXf3KIu491eP/ajD1Xb3lyhpOO4ONeeXB+Ps72n/LBzwwMjFVGnCv4DJ+ejTXUf2ClicmtJTGu/HFgZCGdLaX4ley4iOxtdJ1iNH0O1OE="
 }
